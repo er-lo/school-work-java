@@ -1,0 +1,1 @@
+Apple says no one but you can access your Journal. Even if your phone is unlocked and you hand it to someone, they can't get into the app, because you can lock your Journal. I set it to unlock with Face ID. If you sync it to iCloud, it's stored with end-to-end encryption. 
